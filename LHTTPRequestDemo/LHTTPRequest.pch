@@ -1,0 +1,18 @@
+//
+//  LHTTPRequest.pch
+//  LHTTPRequestDemo
+//
+//  Created by 刘明飞 on 2019/10/17.
+//  Copyright © 2019 刘明飞. All rights reserved.
+//
+
+#ifndef LHTTPRequest_pch
+#define LHTTPRequest_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <ReactiveObjC.h>
+#import <AFNetworking.h>
+#import <YYModel.h>
+
+#endif /* LHTTPRequest_pch */
